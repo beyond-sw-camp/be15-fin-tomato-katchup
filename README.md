@@ -289,19 +289,23 @@ MCN(Multi-Channel Network) 기업은 유튜브와 인스타그램 등 다양한 
 <div>
 
 <h4>로그인 & 로그아웃</h4>
-<img src="https://github.com/be15-fin-tomato/KATCHUP/raw/main/assets/gifs/login_logout.gif" width="600"/>
+![로그인 로그아웃 GIF](https://github.com/user-attachments/assets/ca9b4bce-00b8-4bd8-8308-11be748d99fe)
+
 
 <h4>비밀번호 찾기</h4>
-<img src="https://github.com/be15-fin-tomato/KATCHUP/raw/main/assets/gifs/find_password.gif" width="600"/>
+![비밀번호 찾기(임시비번)_converted](https://github.com/user-attachments/assets/97e4201d-40e0-4d66-a697-9632edb0931a)
+
 
 <h4>비밀번호 변경</h4>
-<img src="https://github.com/be15-fin-tomato/KATCHUP/raw/main/assets/gifs/change_password.gif" width="600"/>
+![비밀번호 변경_converted](https://github.com/user-attachments/assets/fda0e661-67e5-4333-a1ef-63ac10afdd62)
 
 <h4>개인정보 및 프로필사진 수정</h4>
-<img src="https://github.com/be15-fin-tomato/KATCHUP/raw/main/assets/gifs/edit_profile.gif" width="600"/>
+![개인정보 및 프로필사진 수정_converted](https://github.com/user-attachments/assets/b140296f-aecf-483a-a12a-ca0708e317a5)
+
 
 <h4>내 인플루언서 목록 조회</h4>
-<img src="https://github.com/be15-fin-tomato/KATCHUP/raw/main/assets/gifs/influencer_list.gif" width="600"/>
+![내 인플루언서 목록 조회_converted](https://github.com/user-attachments/assets/61eb5792-90cc-41ed-acb8-424a3730e181)
+
 
 </div>
 </details>
@@ -320,10 +324,12 @@ MCN(Multi-Channel Network) 기업은 유튜브와 인스타그램 등 다양한 
 <div>
 
 <h4>유튜브 대시보드 1</h4>
-<img src="https://github.com/be15-fin-tomato/KATCHUP/raw/main/assets/gifs/youtube_dashboard_1.gif" width="600"/>
+![유튜브 대시보드 GIF 1_converted](https://github.com/user-attachments/assets/807c3c33-c22f-457e-99fe-aa3ad3a65772)
+
 
 <h4>유튜브 대시보드 2</h4>
-<img src="https://github.com/be15-fin-tomato/KATCHUP/raw/main/assets/gifs/youtube_dashboard_2.gif" width="600"/>
+![유튜브 대시보드 GIF 2_converted](https://github.com/user-attachments/assets/945cb796-91f4-487e-acb8-b912ffab8cd7)
+
 
 </div>
 </details>
@@ -332,7 +338,8 @@ MCN(Multi-Channel Network) 기업은 유튜브와 인스타그램 등 다양한 
 <summary><strong>인스타그램 대시보드</strong></summary>
 <div>
 
-<img src="https://github.com/be15-fin-tomato/KATCHUP/raw/main/assets/gifs/instagram_dashboard.gif" width="600"/>
+![인스타그램 대시보드 GIF 2_converted](https://github.com/user-attachments/assets/7b738c3a-cc59-4b0d-8673-3283d5c8ea75)
+
 
 </div>
 </details>
@@ -342,10 +349,12 @@ MCN(Multi-Channel Network) 기업은 유튜브와 인스타그램 등 다양한 
 <div>
 
 <h4>수정</h4>
-<img src="https://github.com/be15-fin-tomato/KATCHUP/raw/main/assets/gifs/pipeline_edit.gif" width="600"/>
+![파이프라인 수정_converted](https://github.com/user-attachments/assets/6e31f3be-ab80-4ca2-b8b2-65cc9b4bee62)
+
 
 <h4>삭제</h4>
-<img src="https://github.com/be15-fin-tomato/KATCHUP/raw/main/assets/gifs/pipeline_delete.gif" width="600"/>
+![파이프라인 삭제_converted](https://github.com/user-attachments/assets/b75aca6d-9b30-4d0c-ac85-7226fa8bd91d)
+
 
 </div>
 </details>
@@ -355,19 +364,24 @@ MCN(Multi-Channel Network) 기업은 유튜브와 인스타그램 등 다양한 
 <div>
 
 <h4>계약서 등록</h4>
-<img src="https://github.com/be15-fin-tomato/KATCHUP/raw/main/assets/gifs/contract_register.gif" width="600"/>
+![계약서 등록_converted](https://github.com/user-attachments/assets/a09b87b8-9904-4b6b-9488-364d9d2838b4)
+
 
 <h4>템플릿 등록</h4>
-<img src="https://github.com/be15-fin-tomato/KATCHUP/raw/main/assets/gifs/contract_template_register.gif" width="600"/>
+![계약서 템플릿 등록_converted](https://github.com/user-attachments/assets/a1b01ceb-3129-4341-8f2f-af060b50159e)
+
 
 <h4>템플릿 목록 조회</h4>
-<img src="https://github.com/be15-fin-tomato/KATCHUP/raw/main/assets/gifs/contract_template_list.gif" width="600"/>
+![계약서 템플릿 목록 조회_converted](https://github.com/user-attachments/assets/0c7da040-f02c-4e7c-9e90-9cc38eab5a19)
+
 
 <h4>계약서 다운로드</h4>
-<img src="https://github.com/be15-fin-tomato/KATCHUP/raw/main/assets/gifs/contract_download.gif" width="600"/>
+![계약서 다운로드 조회_converted](https://github.com/user-attachments/assets/4e7be909-f549-47b1-bc80-7eed61b6c0a6)
+
 
 <h4>이메일 전송</h4>
-<img src="https://github.com/be15-fin-tomato/KATCHUP/raw/main/assets/gifs/contract_email_send.gif" width="600"/>
+![계약서 이메일 전송_converted](https://github.com/user-attachments/assets/2f7529c9-aad4-420a-86fe-49260562db75)
+
 
 </div>
 </details>
@@ -377,16 +391,20 @@ MCN(Multi-Channel Network) 기업은 유튜브와 인스타그램 등 다양한 
 <div>
 
 <h4>전체 조회</h4>
-<img src="https://github.com/be15-fin-tomato/KATCHUP/raw/main/assets/gifs/notification_list.gif" width="600"/>
+![알림 전체 조회 GIF](https://github.com/user-attachments/assets/8ab4db71-8a32-4c13-99fc-01fac86c64b8)
+
 
 <h4>알림 확인</h4>
-<img src="https://github.com/be15-fin-tomato/KATCHUP/raw/main/assets/gifs/notification_read.gif" width="600"/>
+![알림 확인 GIF](https://github.com/user-attachments/assets/af65bf03-bfea-4fea-bc08-4e87428fc93e)
+
 
 <h4>수신 개수 조회</h4>
-<img src="https://github.com/be15-fin-tomato/KATCHUP/raw/main/assets/gifs/notification_count.gif" width="600"/>
+![알림 수신 개수 조회 GIF](https://github.com/user-attachments/assets/c97deaa7-3ba6-423d-b61d-4735abf97518)
+
 
 <h4>알림 삭제</h4>
-<img src="https://github.com/be15-fin-tomato/KATCHUP/raw/main/assets/gifs/notification_delete.gif" width="600"/>
+![알림 삭제 GIF](https://github.com/user-attachments/assets/88524b99-f642-4ce5-a3f7-2bfdc90a887a)
+
 
 </div>
 </details>
@@ -396,16 +414,20 @@ MCN(Multi-Channel Network) 기업은 유튜브와 인스타그램 등 다양한 
 <div>
 
 <h4>만족도 평가</h4>
-<img src="https://github.com/be15-fin-tomato/KATCHUP/raw/main/assets/gifs/satisfaction.gif" width="600"/>
+![만족도 평가 GIF](https://github.com/user-attachments/assets/877a6d8b-bb96-40f7-ab87-f22774adbf79)
+
 
 <h4>캠페인 컨텐츠 정보 조회</h4>
-<img src="https://github.com/be15-fin-tomato/KATCHUP/raw/main/assets/gifs/campaign_content_info.gif" width="600"/>
+![캠페인 컨텐츠 정보 조회 GIF](https://github.com/user-attachments/assets/d7749118-bab5-4269-bc79-3834631fb865)
+
 
 <h4>유입 분석 & 수익 요약</h4>
-<img src="https://github.com/be15-fin-tomato/KATCHUP/raw/main/assets/gifs/traffic_and_revenue.gif" width="600"/>
+![유입 분석, 수익 요약 조회 GIF](https://github.com/user-attachments/assets/f76c097e-5843-4bb1-aa62-7634d2e2d81d)
+
 
 <h4>검색 비율 조회</h4>
-<img src="https://github.com/be15-fin-tomato/KATCHUP/raw/main/assets/gifs/search_ratio.gif" width="600"/>
+![검색 비율 조회](https://github.com/user-attachments/assets/0f488422-6402-4334-8065-68a8bfb9a461)
+
 
 </div>
 </details>
@@ -415,10 +437,12 @@ MCN(Multi-Channel Network) 기업은 유튜브와 인스타그램 등 다양한 
 <div>
 
 <h4>만족도 평가 요청</h4>
-<img src="https://github.com/be15-fin-tomato/KATCHUP/raw/main/assets/gifs/satisfaction_request.gif" width="600"/>
+![만족도 평가 요청_converted](https://github.com/user-attachments/assets/0b8cfe79-c7a5-4616-95f8-0cb44fccf860)
+
 
 <h4>만족도 평가 조회</h4>
-<img src="https://github.com/be15-fin-tomato/KATCHUP/raw/main/assets/gifs/satisfaction_result.gif" width="600"/>
+![만족도 평가 조회_converted](https://github.com/user-attachments/assets/bb5c35ca-b737-416a-a611-396796e149ef)
+
 
 </div>
 </details>
@@ -428,22 +452,28 @@ MCN(Multi-Channel Network) 기업은 유튜브와 인스타그램 등 다양한 
 <div>
 
 <h4>채팅방 생성</h4>
-<img src="https://github.com/be15-fin-tomato/KATCHUP/raw/main/assets/gifs/chat_create.gif" width="600"/>
+![채팅방 생성 GIF mp4](https://github.com/user-attachments/assets/b31b8fb1-4340-42ad-9f67-67ec0204f2a8)
+
 
 <h4>채팅방 퇴장</h4>
-<img src="https://github.com/be15-fin-tomato/KATCHUP/raw/main/assets/gifs/chat_leave.gif" width="600"/>
+![채팅방 나가기 GIF mp4](https://github.com/user-attachments/assets/1101ab87-d976-4d3e-b6eb-80ae7637e8f6)
+
 
 <h4>목록/읽지 않은 메시지/마지막 메시지</h4>
-<img src="https://github.com/be15-fin-tomato/KATCHUP/raw/main/assets/gifs/chat_list_summary.gif" width="600"/>
+![채팅방 목록, 읽지 않은 메세지 수, 마지막 수신 메세지 조회 GIF mp4](https://github.com/user-attachments/assets/8cd8a5cc-c3ce-41e6-bf9f-c9082837e5e6)
+
 
 <h4>메시지 전송</h4>
-<img src="https://github.com/be15-fin-tomato/KATCHUP/raw/main/assets/gifs/chat_send.gif" width="600"/>
+![메세지 전송 GIF mp4](https://github.com/user-attachments/assets/90ddf175-4baa-4aa8-b07f-c7a8dcd59356)
+
 
 <h4>채팅방 검색</h4>
-<img src="https://github.com/be15-fin-tomato/KATCHUP/raw/main/assets/gifs/chat_search.gif" width="600"/>
+![채팅방 검색 GIF mp4](https://github.com/user-attachments/assets/9e87e4f6-5892-4ad0-aa7d-cb23c4b1e59c)
+
 
 <h4>채팅방 초대</h4>
-<img src="https://github.com/be15-fin-tomato/KATCHUP/raw/main/assets/gifs/chat_invite.gif" width="600"/>
+![채팅방 초대 GIF mp4](https://github.com/user-attachments/assets/f147eb93-4bb4-4244-8f0e-0618fe8998c1)
+
 
 </div>
 </details>
@@ -453,16 +483,20 @@ MCN(Multi-Channel Network) 기업은 유튜브와 인스타그램 등 다양한 
 <div>
 
 <h4>일정 조회 (개인/파이프라인)</h4>
-<img src="https://github.com/be15-fin-tomato/KATCHUP/raw/main/assets/gifs/calendar_view.gif" width="600"/>
+![개인 일정   파이프라인 일정 조회 GIF mp4](https://github.com/user-attachments/assets/e1806b43-d8ae-470b-b235-b62e5e8c31c6)
+
 
 <h4>일정 등록</h4>
-<img src="https://github.com/be15-fin-tomato/KATCHUP/raw/main/assets/gifs/calendar_add.gif" width="600"/>
+![캘린더 일정 등록 GIF](https://github.com/user-attachments/assets/b70a4dd1-f3f8-463f-aaf5-0ea4af8098c6)
+
 
 <h4>일정 수정</h4>
-<img src="https://github.com/be15-fin-tomato/KATCHUP/raw/main/assets/gifs/calendar_edit.gif" width="600"/>
+![캘린더 일정 수정 GIF](https://github.com/user-attachments/assets/abda9fe8-183c-47b1-9220-f54c827317fa)
+
 
 <h4>일정 삭제</h4>
-<img src="https://github.com/be15-fin-tomato/KATCHUP/raw/main/assets/gifs/calendar_delete.gif" width="600"/>
+![캘린더 일정 삭제 GIF](https://github.com/user-attachments/assets/a3cd8511-2aed-4c1f-84b3-3fd53d3f5491)
+
 
 </div>
 </details>
@@ -471,7 +505,8 @@ MCN(Multi-Channel Network) 기업은 유튜브와 인스타그램 등 다양한 
 <summary><strong>메인 대시보드</strong></summary>
 <div>
 
-<!-- 대시보드 시연 GIF 있으면 여기에 추가 -->
+![메인대시보드_converted](https://github.com/user-attachments/assets/04f64326-e77a-4333-b279-76687e3c02d5)
+
 
 </div>
 </details>
