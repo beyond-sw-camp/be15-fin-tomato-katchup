@@ -289,7 +289,7 @@ MCN(Multi-Channel Network) 기업은 유튜브와 인스타그램 등 다양한 
 <div>
 
 <h4>로그인 & 로그아웃</h4>
-<img src="[https://github.com/user-attachments/assets/ca9b4bce-00b8-4bd8-8308-11be748d99fe](https://github.com/user-attachments/assets/ca9b4bce-00b8-4bd8-8308-11be748d99fe)" alt="로그인 로그아웃 GIF">
+<img src="https://github.com/user-attachments/assets/ca9b4bce-00b8-4bd8-8308-11be748d99fe" alt="로그인 로그아웃 GIF">
 
 <h4>비밀번호 찾기</h4>
 <img src="[https://github.com/user-attachments/assets/97e4201d-40e0-4d66-a697-9632edb0931a](https://github.com/user-attachments/assets/97e4201d-40e0-4d66-a697-9632edb0931a)" alt="비밀번호 찾기(임시비번)\_converted">
