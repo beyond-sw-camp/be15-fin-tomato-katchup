@@ -1,0 +1,6 @@
+[submodule "tomato-fe"]
+	path = tomato-fe
+	url = https://github.com/be15-fin-tomato/be15-fin-tomato-katchup-FE
+[submodule "tomato-be"]
+	path = tomato-be
+	url = https://github.com/be15-fin-tomato/be15-fin-tomato-katchup-BE
