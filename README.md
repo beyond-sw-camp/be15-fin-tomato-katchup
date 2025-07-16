@@ -426,22 +426,22 @@ MCN(Multi-Channel Network) 기업은 유튜브와 인스타그램 등 다양한 
 <div>
 
 <h4>채팅방 생성</h4>
-<img src="https://github.com/user-attachments/assets/b31b8fb1-4340-42ad-9f67-67ec0204f2a8" alt="채팅방 생성 GIF mp4">
+<img src="https://github.com/user-attachments/assets/b31b8fb1-4340-42ad-9f67-67ec0204f2a8" alt="채팅방 생성">
 
 <h4>채팅방 퇴장</h4>
-<img src="https://github.com/user-attachments/assets/1101ab87-d976-4d3e-b6eb-80ae7637e8f6" alt="채팅방 나가기 GIF mp4">
+<img src="https://github.com/user-attachments/assets/1101ab87-d976-4d3e-b6eb-80ae7637e8f6" alt="채팅방 나가기">
 
 <h4>목록/읽지 않은 메시지/마지막 메시지</h4>
-<img src="https://github.com/user-attachments/assets/8cd8a5cc-c3ce-41e6-bf9f-c9082837e5e6" alt="채팅방 목록, 읽지 않은 메세지 수, 마지막 수신 메세지 조회 GIF mp4">
+<img src="https://github.com/user-attachments/assets/8cd8a5cc-c3ce-41e6-bf9f-c9082837e5e6" alt="채팅방 목록, 읽지 않은 메세지 수, 마지막 수신 메세지 조회">
 
 <h4>메시지 전송</h4>
-<img src="https://github.com/user-attachments/assets/90ddf175-4baa-4aa8-b07f-c7a8dcd59356" alt="메세지 전송 GIF mp4">
+<img src="https://github.com/user-attachments/assets/90ddf175-4baa-4aa8-b07f-c7a8dcd59356" alt="메세지 전송">
 
 <h4>채팅방 검색</h4>
-<img src="https://github.com/user-attachments/assets/9e87e4f6-5892-4ad0-aa7d-cb23c4b1e59c" alt="채팅방 검색 GIF mp4">
+<img src="https://github.com/user-attachments/assets/9e87e4f6-5892-4ad0-aa7d-cb23c4b1e59c" alt="채팅방 검색">
 
 <h4>채팅방 초대</h4>
-<img src="https://github.com/user-attachments/assets/f147eb93-4bb4-4244-8f0e-0618fe8998c1" alt="채팅방 초대 GIF mp4">
+<img src="https://github.com/user-attachments/assets/f147eb93-4bb4-4244-8f0e-0618fe8998c1" alt="채팅방 초대">
 
 </div>
 </details>
@@ -451,16 +451,16 @@ MCN(Multi-Channel Network) 기업은 유튜브와 인스타그램 등 다양한 
 <div>
 
 <h4>일정 조회 (개인/파이프라인)</h4>
-<img src="https://github.com/user-attachments/assets/e1806b43-d8ae-470b-b235-b62e5e8c31c6" alt="개인 일정 파이프라인 일정 조회 GIF mp4">
+<img src="https://github.com/user-attachments/assets/e1806b43-d8ae-470b-b235-b62e5e8c31c6" alt="개인 일정 파이프라인 일정 조회">
 
 <h4>일정 등록</h4>
-<img src="https://github.com/user-attachments/assets/b70a4dd1-f3f8-463f-aaf5-0ea4af8098c6" alt="캘린더 일정 등록 GIF">
+<img src="https://github.com/user-attachments/assets/b70a4dd1-f3f8-463f-aaf5-0ea4af8098c6" alt="캘린더 일정 등록">
 
 <h4>일정 수정</h4>
-<img src="https://github.com/user-attachments/assets/abda9fe8-183c-47b1-9220-f54c827317fa" alt="캘린더 일정 수정 GIF">
+<img src="https://github.com/user-attachments/assets/abda9fe8-183c-47b1-9220-f54c827317fa" alt="캘린더 일정 수정">
 
 <h4>일정 삭제</h4>
-<img src="https://github.com/user-attachments/assets/a3cd8511-2aed-4c1f-84b3-3fd53d3f5491" alt="캘린더 일정 삭제 GIF">
+<img src="https://github.com/user-attachments/assets/a3cd8511-2aed-4c1f-84b3-3fd53d3f5491" alt="캘린더 일정 삭제">
 
 </div>
 </details>
@@ -469,7 +469,7 @@ MCN(Multi-Channel Network) 기업은 유튜브와 인스타그램 등 다양한 
 <summary><strong>메인 대시보드</strong></summary>
 <div>
 
-<img src="https://github.com/user-attachments/assets/04f64326-e77a-4333-b279-76687e3c02d5" alt="메인대시보드_converted">
+<img src="https://github.com/user-attachments/assets/04f64326-e77a-4333-b279-76687e3c02d5" alt="메인대시보드">
 
 </div>
 </details>
