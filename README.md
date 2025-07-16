@@ -516,6 +516,8 @@ MCN(Multi-Channel Network) 기업은 유튜브와 인스타그램 등 다양한 
 
 ## <p id="4-1">4-1. 통합 테스트 결과서</p>
 
+<img src="https://github.com/user-attachments/assets/f404c410-e163-48b5-bc0d-2b848fcc0d78" alt="통합 테스트 결과서">
+
 ---
 
 ## <p id="5"> 5. 트러블 슈팅</p>
