@@ -550,7 +550,7 @@ MCN(Multi-Channel Network) 기업은 유튜브와 인스타그램 등 다양한 
 | ----------- | ---------------------------------------------------- |
 | `main`      | 운영 배포용 브랜치. 항상 안정적인 상태를 유지        |
 | `dev`       | 개발 통합 브랜치. 기능 개발 브랜치들이 머지되는 대상 |
-| `feat.`     | 기능 개발 브랜치                                     |
+| `feat`,'TMT'     | 기능 개발 브랜치                                     |
 | `fix`       | 버그 수정 브랜치                                     |
 | `chore`     | 설정, 배포, 문서 작업 등 기타 작업용 브랜치          |
 | `hotfix`    | 긴급 수정 및 배포 브랜치                             |
@@ -584,7 +584,7 @@ MCN(Multi-Channel Network) 기업은 유튜브와 인스타그램 등 다양한 
 
 ## <p id="4-2">4-2. 통합 테스트 결과서</p>
 
-[![통합 테스트 결과서](https://img.shields.io/badge/통합 테스트 결과서-바로가기-green?style=for-the-badge)]([https://cho-hyun-seung.github.io/apidocs/dist/index.html](https://docs.google.com/spreadsheets/d/1q12NH0h5hOcvCFU6CqA1my5h5tuPUZwJ_3G9Ezj80LA/edit?gid=1250570749#gid=1250570749))
+[![통합_테스트_결과서](https://img.shields.io/badge/통합_테스트_결과서-바로가기-green?style=for-the-badge)](https://docs.google.com/spreadsheets/d/1q12NH0h5hOcvCFU6CqA1my5h5tuPUZwJ_3G9Ezj80LA/edit?gid=1250570749#gid=1250570749)
 
 ---
 
