@@ -297,55 +297,12 @@ MCN(Multi-Channel Network) 기업은 유튜브와 인스타그램 등 다양한 
 <img src="https://github.com/user-attachments/assets/97e4201d-40e0-4d66-a697-9632edb0931a" alt="비밀번호 찾기(임시비번)_converted">
 
 <h4>비밀번호 변경</h4>
-<img src="https://github.com/user-attachments/assets/fda0e661-67e5-4333-a1ef-63ac10afdd62" alt="비밀번호 변경_converted">
+<img src="https://github.램 대시보드 1</h4>
+<img src="" alt="유튜브 대시보드 GIF 1">
 
-<h4>개인정보 및 프로필사진 수정</h4>
-<img src="https://github.com/user-attachments/assets/b140296f-aecf-483a-a12a-ca0708e317a5" alt="개인정보 및 프로필사진 수정_converted">
+<h4>인스타그램 대시보드 2</h4>
+<img src="" alt="유튜브 대시보드 GIF 2">
 
-<h4>내 인플루언서 목록 조회</h4>
-<img src="https://github.com/user-attachments/assets/61eb5792-90cc-41ed-acb8-424a3730e181" alt="내 인플루언서 목록 조회_converted">
-
-</div>
-</details>
-
-<details>
-<summary><strong>인플루언서 관리</strong></summary>
-<div>
-
-<h4>인플루언서 목록 조회</h4>
-<img src="https://github.com/user-attachments/assets/3033df2c-2383-453f-8cc0-06bb12cdb175" alt="인플루언서 목록 조회">
-
-<h4>인플루언서 등록</h4>
-
-<h4>인플루언서 검색</h4>
-<img src="https://github.com/user-attachments/assets/809b6567-c7cc-49f1-8403-8bb1375a2c9f" alt="인플루언서 검색">
-
-<h4>인플루언서 수정</h4>
-
-<h4>인플루언서 삭제</h4>
-<img src="https://github.com/user-attachments/assets/705125c7-623b-40d1-a94f-bf41287488f0" alt="인플루언서 삭제">
-
-</div>
-</details>
-
-<details>
-<summary><strong>유튜브 대시보드</strong></summary>
-<div>
-
-<h4>유튜브 대시보드 1</h4>
-<img src="https://github.com/user-attachments/assets/807c3c33-c22f-457e-99fe-aa3ad3a65772" alt="유튜브 대시보드 GIF 1_converted">
-
-<h4>유튜브 대시보드 2</h4>
-<img src="https://github.com/user-attachments/assets/945cb796-91f4-487e-acb8-b912ffab8cd7" alt="유튜브 대시보드 GIF 2_converted">
-
-</div>
-</details>
-
-<details>
-<summary><strong>인스타그램 대시보드</strong></summary>
-<div>
-
-<img src="https://github.com/user-attachments/assets/7b738c3a-cc59-4b0d-8673-3283d5c8ea75" alt="인스타그램 대시보드 GIF 2_converted">
 
 </div>
 </details>
