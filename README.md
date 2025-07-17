@@ -361,6 +361,12 @@ MCN(Multi-Channel Network) 기업은 유튜브와 인스타그램 등 다양한 
 <h4>파이프라인 목록 조회</h4>
 <img src="https://github.com/user-attachments/assets/118aa32c-02d1-4353-a974-e60318ddf299" alt="파이프라인 목록 조회">
 
+<h4>파이프라인 상세 조회</h4>
+<img src="https://github.com/user-attachments/assets/dac7890d-76c0-44ad-ad85-1dd8499f56b9" alt="파이프라인 상세 조회">
+
+<h4>파이프라인 등록</h4>
+<img src="https://github.com/user-attachments/assets/14fc249e-da61-4030-9357-48c692e1ba5e" alt="파이프라인 등록">
+
 <h4>파이프라인 수정</h4>
 <img src="https://github.com/user-attachments/assets/6e31f3be-ab80-4ca2-b8b2-65cc9b4bee62" alt="파이프라인 수정">
 
