@@ -584,7 +584,7 @@ MCN(Multi-Channel Network) 기업은 유튜브와 인스타그램 등 다양한 
 
 ## <p id="4-2">4-2. 통합 테스트 결과서</p>
 
-<img src="https://github.com/user-attachments/assets/f404c410-e163-48b5-bc0d-2b848fcc0d78" alt="통합 테스트 결과서">
+[![통합 테스트 결과서](https://img.shields.io/badge/통합 테스트 결과서-바로가기-green?style=for-the-badge)]([https://cho-hyun-seung.github.io/apidocs/dist/index.html](https://docs.google.com/spreadsheets/d/1q12NH0h5hOcvCFU6CqA1my5h5tuPUZwJ_3G9Ezj80LA/edit?gid=1250570749#gid=1250570749))
 
 ---
 
