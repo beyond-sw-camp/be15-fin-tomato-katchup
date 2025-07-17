@@ -330,7 +330,14 @@ MCN(Multi-Channel Network) 기업은 유튜브와 인스타그램 등 다양한 
 </div>
 </details>
 
-<h4>AI 인플루언서 추천 매칭</h4>
+<details>
+<summary><strong>AI 인플루언서 추천 매칭</strong></summary>
+<div>
+
+<img src = "https://github.com/user-attachments/assets/a15d6b29-a32a-40a0-afe6-300f958b3fc7" alt="AI 추천 매칭">
+
+</div>
+</details>
 
 <details>
 <summary><strong>유튜브 대시보드</strong></summary>
@@ -456,8 +463,12 @@ MCN(Multi-Channel Network) 기업은 유튜브와 인스타그램 등 다양한 
 </div>
 </details>
 
-<h4>만족도 조사 목록</h4>
+<details>
+<summary><strong>만족도 조사 목록</strong></summary>
+<div>
 <img src="https://github.com/user-attachments/assets/f0adaca9-b985-49b4-826d-eac01a188e17" alt="만족도 조사 목록">
+</div>
+</details>
 
 <details>
 <summary><strong>캠페인 성과 대시보드</strong></summary>
