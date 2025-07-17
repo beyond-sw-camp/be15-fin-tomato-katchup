@@ -57,7 +57,9 @@
 
 <a href="#4">4. 시스템 통합 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#4-1">4-1. 통합 테스트 결과서</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#4-1">4-1. CI/CD 계획서</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#4-2">4-2. 통합 테스트 결과서</a>
 
 <a href="#5">5. 트러블 슈팅 </a>
 
@@ -310,6 +312,19 @@ MCN(Multi-Channel Network) 기업은 유튜브와 인스타그램 등 다양한 
 <summary><strong>인플루언서 관리</strong></summary>
 <div>
 
+<h4>인플루언서 목록 조회</h4>
+<img src="https://github.com/user-attachments/assets/3033df2c-2383-453f-8cc0-06bb12cdb175" alt="인플루언서 목록 조회">
+
+<h4>인플루언서 등록</h4>
+
+<h4>인플루언서 검색</h4>
+<img src="https://github.com/user-attachments/assets/809b6567-c7cc-49f1-8403-8bb1375a2c9f" alt="인플루언서 검색">
+
+<h4>인플루언서 수정</h4>
+
+<h4>인플루언서 삭제</h4>
+<img src="https://github.com/user-attachments/assets/705125c7-623b-40d1-a94f-bf41287488f0" alt="인플루언서 삭제">
+
 </div>
 </details>
 
@@ -339,11 +354,14 @@ MCN(Multi-Channel Network) 기업은 유튜브와 인스타그램 등 다양한 
 <summary><strong>파이프라인</strong></summary>
 <div>
 
-<h4>수정</h4>
-<img src="https://github.com/user-attachments/assets/6e31f3be-ab80-4ca2-b8b2-65cc9b4bee62" alt="파이프라인 수정_converted">
+<h4>파이프라인 목록 조회</h4>
+<img src="https://github.com/user-attachments/assets/118aa32c-02d1-4353-a974-e60318ddf299" alt="파이프라인 목록 조회">
 
-<h4>삭제</h4>
-<img src="https://github.com/user-attachments/assets/b75aca6d-9b30-4d0c-ac85-7226fa8bd91d" alt="파이프라인 삭제_converted">
+<h4>파이프라인 수정</h4>
+<img src="https://github.com/user-attachments/assets/6e31f3be-ab80-4ca2-b8b2-65cc9b4bee62" alt="파이프라인 수정">
+
+<h4>파이프라인 삭제</h4>
+<img src="https://github.com/user-attachments/assets/b75aca6d-9b30-4d0c-ac85-7226fa8bd91d" alt="파이프라인 삭제">
 
 </div>
 </details>
@@ -393,17 +411,17 @@ MCN(Multi-Channel Network) 기업은 유튜브와 인스타그램 등 다양한 
 <summary><strong>고객 관리</strong></summary>
 <div>
 
-<h4>만족도 평가</h4>
-<img src="https://github.com/user-attachments/assets/877a6d8b-bb96-40f7-ab87-f22774adbf79" alt="만족도 평가 GIF">
+<h4>만족도 조사 목록</h4>
+<img src="https://github.com/user-attachments/assets/f0adaca9-b985-49b4-826d-eac01a188e17" alt="만족도 조사 목록">
 
 <h4>캠페인 컨텐츠 정보 조회</h4>
-<img src="https://github.com/user-attachments/assets/d7749118-bab5-4269-bc79-3834631fb865" alt="캠페인 컨텐츠 정보 조회 GIF">
+<img src="https://github.com/user-attachments/assets/44fcd577-1087-458d-a1b1-bd848d532274" alt="캠페인 컨텐츠 정보 조회">
 
 <h4>유입 분석 & 수익 요약</h4>
-<img src="https://github.com/user-attachments/assets/f76c097e-5843-4bb1-aa62-7634d2e2d81d" alt="유입 분석, 수익 요약 조회 GIF">
+<img src="https://github.com/user-attachments/assets/16dc9a33-f880-4155-90c5-23ce85b46b78" alt="유입 분석, 수익 요약 조회">
 
 <h4>검색 비율 조회</h4>
-<img src="https://github.com/user-attachments/assets/0f488422-6402-4334-8065-68a8bfb9a461" alt="검색 비율 조회">
+<img src="https://github.com/user-attachments/assets/7b8c4f2a-0048-40ae-acdc-31cac87f82a2" alt="검색 비율 조회">
 
 </div>
 </details>
@@ -514,7 +532,9 @@ MCN(Multi-Channel Network) 기업은 유튜브와 인스타그램 등 다양한 
 
 ## <p id="4"> 4. 시스템 통합</p>
 
-## <p id="4-1">4-1. 통합 테스트 결과서</p>
+## <p id="4-1">4-1. CI/CD 계획서</p>
+
+## <p id="4-2">4-2. 통합 테스트 결과서</p>
 
 <img src="https://github.com/user-attachments/assets/f404c410-e163-48b5-bc0d-2b848fcc0d78" alt="통합 테스트 결과서">
 
@@ -613,11 +633,11 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter {
 |  이름  | 회고 |
 | :----: | :--- |
 | 조현승 |      |
-| 박준서 |
 | 이승재 |      |
-| 박장우 |      |
 | 윤채영 |      |
 | 오유경 |      |
+| 박준서 |      |
+| 박장우 |      |
 
 ---
 
