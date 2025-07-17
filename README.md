@@ -316,11 +316,13 @@ MCN(Multi-Channel Network) 기업은 유튜브와 인스타그램 등 다양한 
 <img src="https://github.com/user-attachments/assets/bf852699-dd01-4938-9b34-f3cd2281a79e" alt="인플루언서 목록 조회">
 
 <h4>인플루언서 등록</h4>
+<img src="https://github.com/user-attachments/assets/37c75438-14ac-4766-9a36-7100c9f05181" alt="인플루언서 등록">
 
 <h4>인플루언서 검색</h4>
 <img src="https://github.com/user-attachments/assets/9cb1f508-533b-48d8-aa9d-a396ce15b487" alt="인플루언서 검색">
 
 <h4>인플루언서 수정</h4>
+<img src="https://github.com/user-attachments/assets/c4d486e3-c076-4c3f-9509-4e7088a0a0cf" alt="인플루언서 수정">
 
 <h4>인플루언서 삭제</h4>
 <img src="https://github.com/user-attachments/assets/1c40e4fa-ce63-446a-8970-4ee37907ccc1" alt="인플루언서 삭제">
