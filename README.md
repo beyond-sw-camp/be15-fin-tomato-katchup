@@ -593,14 +593,12 @@ MCN(Multi-Channel Network) 기업은 유튜브와 인스타그램 등 다양한 
 
 ## <p id="4"> 4. 시스템 통합</p>
 
-## <p id="4-1">4-1. CI/CD 계획서</p>
-### 4-1-1. 백엔드 CI/CD 계획서
-![backend ci-cd eddx](https://github.com/user-attachments/assets/01e36ef6-a9f8-4fce-8455-0a7053f4eada)
+## <p id="4-1">4-1. CI/CD 계획</p>
+### 4-1-1. 백엔드 CI/CD 계획
+<img src="https://github.com/user-attachments/assets/01e36ef6-a9f8-4fce-8455-0a7053f4eada" width="50%" />
 
-
-### 4-1-2. 프론트엔드 CI/CD 계획서
-![frontend ci-cd](https://github.com/user-attachments/assets/dd2a0388-aad5-4d3a-8418-fed3dd48a2aa)
-
+### 4-1-2. 프론트엔드 CI/CD 계획
+<img src="https://github.com/user-attachments/assets/dd2a0388-aad5-4d3a-8418-fed3dd48a2aa" width="50%" />
 
 ## <p id="4-2">4-2. 통합 테스트 결과서</p>
 
