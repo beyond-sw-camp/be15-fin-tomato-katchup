@@ -291,14 +291,32 @@ MCN(Multi-Channel Network) 기업은 유튜브와 인스타그램 등 다양한 
 <div>
 
 <h4>로그인 & 로그아웃</h4>
-<img src="https://github.com/user-attachments/assets/ca9b4bce-00b8-4bd8-8308-11be748d99fe" alt="로그인 로그아웃 GIF">
+<img src="https://github.com/user-attachments/assets/ca9b4bce-00b8-4bd8-8308-11be748d99fe" alt="로그인 로그아웃">
 
 <h4>비밀번호 찾기</h4>
 <img src="https://github.com/user-attachments/assets/97e4201d-40e0-4d66-a697-9632edb0931a" alt="비밀번호 찾기(임시비번)">
 
 <h4>비밀번호 변경</h4>
+<img src="https://github.com/user-attachments/assets/1b6fb0ed-5047-462a-bd85-95a60be4f30b" alt="비밀번호 변경">
 
+<h4>개인정보 및 프로필사진 수정</h4>
+<img src="https://github.com/user-attachments/assets/89594c2d-76d1-41c2-90ef-7bd736205403" alt="개인정보 및 프로필사진 수정">
 
+<h4>내 인플루언서 목록 조회</h4>
+<img src="https://github.com/user-attachments/assets/8c319149-0213-42b5-94bc-36652367a802" alt="내 인플루언서 목록 조회">
+
+</div>
+</details>
+
+<details>
+<summary><strong>유튜브 대시보드</strong></summary>
+<div>
+
+<h4>유튜브 대시보드 1</h4>
+<img src="https://github.com/user-attachments/assets/40e79450-fdfa-447d-ab42-fe2284d2f629" alt="유튜브 대시보드 1">
+
+<h4>유튜브 대시보드 2</h4>
+<img src="https://github.com/user-attachments/assets/9508d559-2262-46bc-98e5-c010271a1925" alt="유튜브 대시보드 2">
 
 </div>
 </details>
@@ -308,10 +326,10 @@ MCN(Multi-Channel Network) 기업은 유튜브와 인스타그램 등 다양한 
 <div>
 
 <h4>인스타그램 대시보드 1</h4>
+<img src="https://github.com/user-attachments/assets/f3a6bf7a-b754-47c8-8fd6-1eeef3c02e13" alt="인스타그램 대시보드 1">
 
 <h4>인스타그램 대시보드 2</h4>
-
-
+<img src="https://github.com/user-attachments/assets/f1a2e61b-7a9e-4c4f-b0e8-7fcbbbb6e8b3" alt="인스타그램 대시보드 2">
 
 </div>
 </details>
