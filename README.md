@@ -330,6 +330,8 @@ MCN(Multi-Channel Network) 기업은 유튜브와 인스타그램 등 다양한 
 </div>
 </details>
 
+<h4>AI 인플루언서 추천 매칭</h4>
+
 <details>
 <summary><strong>유튜브 대시보드</strong></summary>
 <div>
