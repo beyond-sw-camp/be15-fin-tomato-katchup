@@ -444,10 +444,13 @@ MCN(Multi-Channel Network) 기업은 유튜브와 인스타그램 등 다양한 
 <summary><strong>고객사원</strong></summary>
 <div>
   <h4>고객사원 등록</h4>
+  <img src="https://github.com/user-attachments/assets/4d16a71e-b5a8-4138-a9d5-13acb33f3b05" alt="고객사원 등록">
 
   <h4>고객사원 수정</h4>
+  <img src="https://github.com/user-attachments/assets/ae78e204-e033-411c-910e-dc66547e05ec" alt="고객사원 수정">
 
   <h4>고객사원 삭제</h4>
+  <img src="https://github.com/user-attachments/assets/d617450e-95d3-4733-a9e8-e285ba21faa1" alt="고객사원 삭제">
 </div>
 </details>
 
