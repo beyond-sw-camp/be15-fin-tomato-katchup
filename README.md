@@ -423,9 +423,40 @@ MCN(Multi-Channel Network) 기업은 유튜브와 인스타그램 등 다양한 
 <summary><strong>고객 관리</strong></summary>
 <div>
 
+<details>
+<summary><strong>고객사</strong></summary>
+<div>
+  <h4>고객사 목록 조회</h4>
+  <img src="https://github.com/user-attachments/assets/e264d34c-7bc4-4744-8b1c-3970ac93cae8" alt="고객사 목록 조회">
+
+  <h4>고객사 상세 조회</h4>
+  <img src="https://github.com/user-attachments/assets/c49ddcf5-f0e1-4dd3-99ee-b69b0f21f779" alt="고객사 상세 조회">
+
+  <h4>고객사 등록</h4>
+
+  <h4>고객사 수정</h4>
+
+  <h4>고객사 삭제</h4>
+</div>
+</details>
+
+<details>
+<summary><strong>고객사원</strong></summary>
+<div>
+  <h4>고객사원 등록</h4>
+
+  <h4>고객사원 수정</h4>
+
+  <h4>고객사원 삭제</h4>
+</div>
+</details>
+
 <h4>만족도 조사 목록</h4>
 <img src="https://github.com/user-attachments/assets/f0adaca9-b985-49b4-826d-eac01a188e17" alt="만족도 조사 목록">
 
+<details>
+<summary><strong>캠페인 성과 대시보드</strong></summary>
+<div>
 <h4>캠페인 컨텐츠 정보 조회</h4>
 <img src="https://github.com/user-attachments/assets/44fcd577-1087-458d-a1b1-bd848d532274" alt="캠페인 컨텐츠 정보 조회">
 
@@ -434,6 +465,8 @@ MCN(Multi-Channel Network) 기업은 유튜브와 인스타그램 등 다양한 
 
 <h4>검색 비율 조회</h4>
 <img src="https://github.com/user-attachments/assets/7b8c4f2a-0048-40ae-acdc-31cac87f82a2" alt="검색 비율 조회">
+</div>
+</details>
 
 </div>
 </details>
