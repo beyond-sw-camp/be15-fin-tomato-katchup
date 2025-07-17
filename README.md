@@ -53,7 +53,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#3-2">3-2. 프론트엔드 UI/UX 단위 테스트 결과서</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#3-3">3-3. git 형상관리</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#3-3">3-3. GIT 브랜치 전략</a>
 
 <a href="#4">4. 시스템 통합 </a>
 
@@ -559,7 +559,7 @@ MCN(Multi-Channel Network) 기업은 유튜브와 인스타그램 등 다양한 
 
 ---
 
-## <p id="3-3">3-3. git 브랜치 전략</p>
+## <p id="3-3">3-3. GIT 브랜치 전략</p>
 
 ### ✅ 브랜치 전략
 
