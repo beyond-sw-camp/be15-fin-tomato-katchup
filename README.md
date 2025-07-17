@@ -294,14 +294,23 @@ MCN(Multi-Channel Network) 기업은 유튜브와 인스타그램 등 다양한 
 <img src="https://github.com/user-attachments/assets/ca9b4bce-00b8-4bd8-8308-11be748d99fe" alt="로그인 로그아웃 GIF">
 
 <h4>비밀번호 찾기</h4>
-<img src="https://github.com/user-attachments/assets/97e4201d-40e0-4d66-a697-9632edb0931a" alt="비밀번호 찾기(임시비번)_converted">
+<img src="https://github.com/user-attachments/assets/97e4201d-40e0-4d66-a697-9632edb0931a" alt="비밀번호 찾기(임시비번)">
 
 <h4>비밀번호 변경</h4>
-<img src="https://github.램 대시보드 1</h4>
-<img src="" alt="유튜브 대시보드 GIF 1">
+
+
+
+</div>
+</details>
+
+<details>
+<summary><strong>인스타그램 대시보드</strong></summary>
+<div>
+
+<h4>인스타그램 대시보드 1</h4>
 
 <h4>인스타그램 대시보드 2</h4>
-<img src="" alt="유튜브 대시보드 GIF 2">
+
 
 
 </div>
