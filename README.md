@@ -1,4 +1,4 @@
-![backend ci-cd eddx](https://github.com/user-attachments/assets/d5d09517-658a-4e27-8dfe-b4f22d1b8d46)﻿<table>
+﻿<table>
   <tr>
     <td align="center"><img src="https://github.com/user-attachments/assets/16718841-7a79-4187-86f9-4134cd4aae6c" width="1300" /></td>
     <td align="center"><img src="https://github.com/user-attachments/assets/12bbb73f-0bcf-40bc-ba8b-62eb5d9a2d83" width="1300"/></td>
